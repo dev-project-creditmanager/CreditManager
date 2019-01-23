@@ -18,12 +18,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import chrriis.common.WebServer.HTTPRequest;
+//import chrriis.common.WebServer.HTTPRequest;
 
 import com.core.controller.BaseController;
 import com.core.entity.AjaxJson;
 import com.core.entity.SplitPage;
-import com.core.utils.GlobalConst;
+//import com.core.utils.GlobalConst;
 import com.web.service.intf.CfgDictInfoService;
 
 /**
